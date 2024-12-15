@@ -1,0 +1,15 @@
+C:\Users\josev\jogoConsole\bin\Debug\net8.0\jogoConsole.exe
+C:\Users\josev\jogoConsole\bin\Debug\net8.0\jogoConsole.deps.json
+C:\Users\josev\jogoConsole\bin\Debug\net8.0\jogoConsole.runtimeconfig.json
+C:\Users\josev\jogoConsole\bin\Debug\net8.0\jogoConsole.dll
+C:\Users\josev\jogoConsole\bin\Debug\net8.0\jogoConsole.pdb
+C:\Users\josev\jogoConsole\obj\Debug\net8.0\jogoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josev\jogoConsole\obj\Debug\net8.0\jogoConsole.AssemblyInfoInputs.cache
+C:\Users\josev\jogoConsole\obj\Debug\net8.0\jogoConsole.AssemblyInfo.cs
+C:\Users\josev\jogoConsole\obj\Debug\net8.0\jogoConsole.csproj.CoreCompileInputs.cache
+C:\Users\josev\jogoConsole\obj\Debug\net8.0\jogoConsole.sourcelink.json
+C:\Users\josev\jogoConsole\obj\Debug\net8.0\jogoConsole.dll
+C:\Users\josev\jogoConsole\obj\Debug\net8.0\refint\jogoConsole.dll
+C:\Users\josev\jogoConsole\obj\Debug\net8.0\jogoConsole.pdb
+C:\Users\josev\jogoConsole\obj\Debug\net8.0\jogoConsole.genruntimeconfig.cache
+C:\Users\josev\jogoConsole\obj\Debug\net8.0\ref\jogoConsole.dll
